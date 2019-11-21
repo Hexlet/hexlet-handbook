@@ -37,6 +37,7 @@
 1. Благодарите пользователя за фидбек, когда тот жалуется или наоборот хвалит.
 
 Что почитать:
+- [Идеальный ответ службы поддержки: Конструктив, уважение, забота](https://web.archive.org/web/20190511013558/http://priunil.ru/all/otvet-podderzhki/)
 - [Intercom on Customer Engagement](https://www.intercom.com/books/customer-engagement)
 - [Заметки Марины Зайцевой](https://medium.com/@marin_k_a)
 
