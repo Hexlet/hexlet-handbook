@@ -20,7 +20,7 @@
 - В русском тексте всегда Хекслет, в английском — Hexlet.
 - Логотип в векторном и PNG форматах лежит в этом репозитории.
 - Формальное название компании — Hexlet Ltd. 
-- Адрес компании: `Hexlet Ltd., Puolikkotie 8, 02230 Espoo, Finland`
+- Адрес компании: `Hexlet Ltd., UMA Esplanadi, Pohjoisesplanadi 39, 00100 Helsinki, Finland`
 
 ### Поддержка
 
